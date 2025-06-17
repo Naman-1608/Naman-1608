@@ -44,6 +44,12 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://numpy.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -62,21 +68,17 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <!--
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  -->
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://spacy.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/512px-SpaCy_logo.svg.png" alt="spaCy" width="40" height="40"/>
   </a>
-  <!--
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://workspace.google.com/products/sheets/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Sheets_logo.svg" alt="Google Sheets" width="40" height="40"/>
-  </a>
-  -->
 </p>
+
 
 
 
