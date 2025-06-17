@@ -20,16 +20,17 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SSMS" width="40" height="40"/>
+  </a>
+  <!-- &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/sql/ssms/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/SQL_Server_Management_Studio_Logo.png" alt="SSMS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/sql/integration-services/" target="_blank">
-    <img src="https://www.svgrepo.com/show/373586/sql-server-integration-services-ssis.svg" alt="SSIS" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/SQL_Server_Integration_Services_Logo.png" alt="SSIS" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/> -->
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/SQL_Server_Logo.svg" alt="SQL Server" width="40" height="40"/>
+  </a> -->
 </p>
 
 ---
@@ -61,16 +62,22 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp; -->
+  <!--
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  -->
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-<!--   <a href="https://workspace.google.com/products/sheets/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/google_sheets/google_sheets-icon.svg" alt="Google Sheets" width="40" height="40"/> -->
   </a>
+  <!--
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://workspace.google.com/products/sheets/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Google_Sheets_logo.svg" alt="Google Sheets" width="40" height="40"/>
+  </a>
+  -->
 </p>
+
 
 
 ## Stats
