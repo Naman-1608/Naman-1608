@@ -93,7 +93,6 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%4hrs%206%20mins-blue)
 
-
 ## **🐱 My GitHub Data**
 
 > 🏆 20 Contributions in the Year 2025
