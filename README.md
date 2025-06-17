@@ -1,6 +1,6 @@
-# Hi, I'm cxyfreedom
+# Hi, I'm Naman
 
-A senior backend developer from China, based in Shanghai. I regulary write articles on Obsidian.
+A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write articles on Medium.
 
 ## About Me
 
