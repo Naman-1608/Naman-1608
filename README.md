@@ -91,7 +91,8 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
 ![](https://github-profile-trophy.vercel.app/?username=Naman-1608&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C321%4hrs%206%20mins-blue)
+![Code Time](https://img.shields.io/badge/Code%20Time-6hrs-blue)
+
 
 ## **🐱 My GitHub Data**
 
