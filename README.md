@@ -1,19 +1,41 @@
-# Hi, I'm Naman
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=48&height=220&width=1000&lines=Heyyy!+I'm+Naman+%3C3;I'+am+a+4th+yr+Undergrad+at+DTU;Welcome+to+my+profile+!" />
+  </a>
+</h1>
+
+<h5 align="center">
+  <span align="center">
+    <a href="https://github.com/Naman-1608" title="LinkedIn Profile" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
+      <img width="32" height="32" src="img/linkedin.svg" style="vertical-align:middle; margin-right:8px;"> LinkedIn
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://leetcode.com/u/theknightace007/" title="Leetcode Profile" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
+      <img width="32" height="32" src="img/leetcode.jpeg" style="vertical-align:middle; margin-right:8px;"> Leetcode
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:namkumar455@gmail.com" title="Gmail" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
+      <img width="40" height="32" src="Img/Gmail-Logo.wine.png" style="vertical-align:middle; margin-right:8px;"> Gmail
+    </a>
+  </span>
+
+  
+</h5>
 
 A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write articles on Medium.
 
 ## About Me
 
 [![](https://visitor-badge.laobi.icu/badge?page_id=Naman-1608.Naman-1608)](https://visitor-badge.laobi.icu/badge?page_id=Naman-1608.Naman-1608)
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:eryajf@163.com)](mailto:namkumar455@gmail.com)
 [![](https://img.shields.io/github/stars/Naman-1608?color=fefb7b&logo=Undertale)](https://github-readme-stats.vercel.app/api?username=Naman-1608&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
 [![](https://img.shields.io/github/followers/Naman-1608?color=27da6b&logo=Handshake)](https://github.com/cxyfreedom?tab=followers)
 
 ## 🛠 **Tools**
 
 <p align="left">
-  <a href="https://github.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
@@ -41,6 +63,8 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   <a href="https://www.python.org" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   </a>&nbsp;&nbsp;&nbsp;
@@ -61,6 +85,8 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -83,6 +109,9 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
 
 
 ## Stats
+
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1608&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Naman's GitHub Streak" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Naman-1608&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Naman-1608" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1608&theme=material-palenight&hide_border=false" alt="Naman-1608" /></p>
