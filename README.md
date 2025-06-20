@@ -7,11 +7,11 @@
 <h5 align="center">
   <span align="center">
     <a href="https://github.com/Naman-1608" title="LinkedIn Profile" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
-      <img width="32" height="32" src="img/linkedin.svg" style="vertical-align:middle; margin-right:8px;"> LinkedIn
+      <img width="32" height="32" src="Img/linkedin.svg" style="vertical-align:middle; margin-right:8px;"> LinkedIn
     </a>
     &nbsp;&nbsp;
     <a href="https://leetcode.com/u/theknightace007/" title="Leetcode Profile" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
-      <img width="32" height="32" src="img/leetcode.jpeg" style="vertical-align:middle; margin-right:8px;"> Leetcode
+      <img width="32" height="32" src="Img/leetcode.jpeg" style="vertical-align:middle; margin-right:8px;"> Leetcode
     </a>
     &nbsp;&nbsp;
     <a href="mailto:namkumar455@gmail.com" title="Gmail" style="display:inline-flex;align-items:center;text-decoration:none;font-size:1.5em;">
