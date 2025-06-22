@@ -113,9 +113,9 @@ A Data Engineer and Frontend Developer, based in Delhi,India. I regulary write a
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1608&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Naman's GitHub Streak" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Naman-1608&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Naman-1608" /></p>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1608&theme=material-palenight&hide_border=false" alt="Naman-1608" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1608&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Naman-1608" /></p>
+<p align = "center"><img align = "center" src="https://github-readme-stats.vercel.app/api?username=Naman-1608&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="Naman-1608" /></p>
+<!-- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Naman-1608&theme=material-palenight&hide_border=false" alt="Naman-1608" /></p> -->
+<p align = "center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naman-1608&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Naman-1608" /></p>
 
 ![](https://github-profile-trophy.vercel.app/?username=Naman-1608&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
